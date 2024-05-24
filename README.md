@@ -1,4 +1,4 @@
-INDICE
+INDICE (empezando con lo mas sencillo e incrementando el nivel)
 
 01Lab
 
